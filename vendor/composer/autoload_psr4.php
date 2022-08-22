@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Ftuzlu\\ConvertToText\\' => array($baseDir . '/src'),
+    'ConvertToText\\' => array($baseDir . '/src'),
 );
