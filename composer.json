@@ -1,0 +1,19 @@
+{
+    "name": "ftuzlu/convertmany",
+    "description": "Convert to text many with laravel 9 ",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ConvertToText\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tuzlu07x",
+            "email": "fatihtuzlu07@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1.0"
+    }
+}
